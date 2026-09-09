@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/h11924/leetcode/tree/master/0013-roman-to-integer) |
+| [0151-reverse-words-in-a-string](https://github.com/h11924/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/h11924/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/h11924/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/h11924/leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
